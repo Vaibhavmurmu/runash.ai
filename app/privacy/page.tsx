@@ -12,7 +12,7 @@ export default function PrivacyPage() {
       <div className="space-y-8">
         <div>
           <h1 className="text-4xl font-bold">Privacy Policy</h1>
-          <p className="mt-2 text-muted-foreground">Last updated: April 30, 2023</p>
+          <p className="mt-2 text-muted-foreground">Last updated: April 06, 2025</p>
         </div>
 
         <div className="prose dark:prose-invert max-w-none">
@@ -123,7 +123,7 @@ export default function PrivacyPage() {
           <p>
             If you have any questions about this Privacy Policy, please contact us at{" "}
             <Link href="mailto:privacy@runash.ai" className="text-orange-600 hover:underline dark:text-orange-400">
-              privacy@runash.ai
+              admin@runash.in
             </Link>
           </p>
         </div>
